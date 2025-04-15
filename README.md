@@ -1,3 +1,3 @@
 # Appna-College-Demo
 This Is My Frist Repository <br>
-author -> shreysi roy
+author -> sh
